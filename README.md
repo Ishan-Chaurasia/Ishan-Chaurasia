@@ -1,3 +1,19 @@
+## Hi there 👋
+
+<!--
+**Ishan-Chaurasia/Ishan-Chaurasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=250&section=header&text=Ishan%20Chaurasia&fontSize=60&fontAlignY=35&fontColor=ffffff&desc=Software%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=55&descSize=22" width="100%" alt="Header Banner" />
@@ -18,7 +34,7 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ishan03&color=4B0082&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Ishan-Chaurasia&color=4B0082&style=for-the-badge&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/Ishan-Chaurasia?color=4B0082&style=for-the-badge&logo=github&label=Followers)
 ![Stars](https://img.shields.io/github/stars/Ishan-Chaurasia?color=4B0082&style=for-the-badge&logo=github&label=Stars)
 
@@ -181,7 +197,7 @@ Built scalable web solutions focusing on layout, accessibility, and user interac
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ishan03&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Ishan-Chaurasia&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 
 </div>
 
@@ -191,7 +207,7 @@ Built scalable web solutions focusing on layout, accessibility, and user interac
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishan03&bg_color=0D1117&color=8A2BE2&line=9400D3&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishan-Chaurasia&bg_color=0D1117&color=8A2BE2&line=9400D3&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 
 </div>
 
