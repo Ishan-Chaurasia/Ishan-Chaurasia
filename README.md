@@ -18,7 +18,7 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ishan-Chaurasia&color=4B0082&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Ishan03&color=4B0082&style=for-the-badge&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/Ishan-Chaurasia?color=4B0082&style=for-the-badge&logo=github&label=Followers)
 ![Stars](https://img.shields.io/github/stars/Ishan-Chaurasia?color=4B0082&style=for-the-badge&logo=github&label=Stars)
 
@@ -158,10 +158,10 @@ Built scalable web solutions focusing on layout, accessibility, and user interac
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ishan-Chaurasia&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=9400D3&text_color=ffffff" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishan-Chaurasia&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=9400D3&currStreakNum=ffffff" alt="GitHub Streak" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ishan03&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=9400D3&text_color=ffffff" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishan03&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=9400D3&currStreakNum=ffffff" alt="GitHub Streak" width="48%" />
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan-Chaurasia&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=8A2BE2&text_color=ffffff" alt="Top Languages" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan03&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=8A2BE2&text_color=ffffff" alt="Top Languages" width="60%" />
 
 </div>
 
@@ -171,7 +171,17 @@ Built scalable web solutions focusing on layout, accessibility, and user interac
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ishan-Chaurasia&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Ishan03&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+### GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ishan03&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 
 </div>
 
@@ -181,7 +191,7 @@ Built scalable web solutions focusing on layout, accessibility, and user interac
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishan-Chaurasia&bg_color=0D1117&color=8A2BE2&line=9400D3&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishan03&bg_color=0D1117&color=8A2BE2&line=9400D3&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 
 </div>
 
