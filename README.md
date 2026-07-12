@@ -1,24 +1,8 @@
-## Hi there 👋
-
-<!--
-**Ishan-Chaurasia/Ishan-Chaurasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=250&section=header&text=Ishan%20Chaurasia&fontSize=60&fontAlignY=35&fontColor=ffffff&desc=Software%20Engineer%20|%20Full%20Stack%20Developer&descAlignY=55&descSize=22" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4B0082&height=250&section=header&text=Ishan%20Chaurasia&fontSize=60&fontAlignY=35&fontColor=ffffff&desc=B.Tech%20CSE%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=22" width="100%" alt="Header Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=800&lines=Enterprise-Grade+Software+Engineering;Building+Scalable+Full+Stack+Solutions;C%2B%2B+%7C+JavaScript+%7C+Node.js;AI%2FML+Enthusiast+%26+Problem+Solver" alt="Typing SVG animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=007BFF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;B.Tech+CSE+at+LNCT+Bhopal;MongoDB+%7C+Express.js+%7C+Node.js;Data+Structures+%26+Algorithms" alt="Typing SVG animation" />
 
 <br>
 
@@ -27,16 +11,16 @@ Here are some ideas to get you started:
 
 <br>
 
-<a href="https://github.com/Ishan-Chaurasia"><img src="https://img.shields.io/badge/Portfolio-Ready-4B0082?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" /></a>
+<a href="https://github.com/Ishan03"><img src="https://img.shields.io/badge/Portfolio-Ready-4B0082?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" /></a>
 <a href="https://linkedin.com/in/ishan-chaurasia03"><img src="https://img.shields.io/badge/LinkedIn-Connect-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:ishanchaurasia218@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-4B0082?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/Ishan-Chaurasia"><img src="https://img.shields.io/badge/GitHub-Follow-4B0082?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://github.com/Ishan03"><img src="https://img.shields.io/badge/GitHub-Follow-4B0082?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ishan-Chaurasia&color=4B0082&style=for-the-badge&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/Ishan-Chaurasia?color=4B0082&style=for-the-badge&logo=github&label=Followers)
-![Stars](https://img.shields.io/github/stars/Ishan-Chaurasia?color=4B0082&style=for-the-badge&logo=github&label=Stars)
+![Profile Views](https://komarev.com/ghpvc/?username=Ishan03&color=4B0082&style=for-the-badge&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Ishan03?color=4B0082&style=for-the-badge&logo=github&label=Followers)
+![Stars](https://img.shields.io/github/stars/Ishan03?color=4B0082&style=for-the-badge&logo=github&label=Stars)
 
 </div>
 
@@ -44,9 +28,11 @@ Here are some ideas to get you started:
 
 ### About Me
 
-I am a dedicated **Software Engineer** and **Full Stack Developer** currently pursuing my Bachelor of Technology in Computer Science & Engineering at LNCT, Bhopal[cite: 1]. I specialize in building highly scalable, responsive web applications utilizing modern frameworks[cite: 1]. With a product-engineering mindset, I bridge the gap between complex data structures and seamless user experiences. My core focus lies in back-end logic, RESTful API architecture, and database management, complemented by an expanding expertise in AI/ML domains to build intelligent, enterprise-grade solutions. 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0000FF&height=250&text=Ishan%20Chaurasia&fontColor=ffffff&fontSize=30&desc=Blue%20Render%20Screen%20(Profile)&descAlignY=65" width="250" align="right" alt="Blue Render Screen Profile Pic" />
 
-**Open To:** Software Engineering Internships | Full Stack Development Roles | Open Source Collaborations
+I am a Full Stack Developer and a Bachelor of Technology student in Computer Science & Engineering at LNCT, Bhopal (2024-2028)[cite: 1]. I possess a strong foundation in Data Structures & Algorithms (DSA) and focus on building responsive, accessible, and highly scalable web applications[cite: 1]. My recent professional experience includes developing RESTful APIs, managing comprehensive database schemas, and executing full CRUD operations using the MEN stack (MongoDB, Express.js, Node.js)[cite: 1].
+
+**Open To:** Full Stack Development Roles | Software Engineering Internships | Problem Solving Engagements
 
 ---
 
@@ -68,11 +54,13 @@ I am a dedicated **Software Engineer** and **Full Stack Developer** currently pu
 
 ### AI / ML Expertise 
 
+*(Note: Aligning strictly with current resume competencies in logic and data structuring[cite: 1])*
+
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Data Structures & Algorithms** | Advanced | Solved 150+ problems on LeetCode[cite: 1]; optimizing time/space complexity for intelligent systems. |
-| **Data Modeling** | Intermediate | Designed efficient MongoDB schemas and implemented full CRUD operations for scalable data persistence[cite: 1]. |
-| **Predictive Logic** | Foundational | Leveraging C++ and JavaScript to build foundational algorithmic models. |
+| **Data Structures & Algorithms** | Advanced | Solved 150+ problems on LeetCode with consistent daily practice[cite: 1]. |
+| **Data Modeling** | Intermediate | Designed MongoDB schemas and implemented full CRUD operations using Mongoose[cite: 1]. |
+| **Core Logic & Flow** | Foundational | Strong algorithmic foundation built in C++ and JavaScript[cite: 1]. |
 
 ---
 
@@ -81,35 +69,18 @@ I am a dedicated **Software Engineer** and **Full Stack Developer** currently pu
 <details>
 <summary><b>WanderLust – Full Stack Travel Accommodation Platform</b></summary>
 <br>
-Developed an Airbnb-inspired accommodation platform with server-side rendering[cite: 1].
+Developed an Airbnb-inspired accommodation platform using the MEN stack with server-side rendering via EJS[cite: 1].
 
 | Metric | Details |
 | :--- | :--- |
 | **Stack** | MongoDB, Express.js, Node.js, EJS, Bootstrap[cite: 1] |
 | **Scale** | Handles dynamic user-generated reviews and property listings[cite: 1] |
-| **Performance** | Optimized server-side rendering via EJS[cite: 1] |
+| **Performance** | Optimized server-side rendering and responsive UI integration[cite: 1] |
 | **Security** | Implemented secure user authentication and authorization using Passport.js, sessions, and cookies[cite: 1] |
-| **Impact** | Built full CRUD functionality with robust data validation[cite: 1] |
-| **Repository** | [View Source](https://github.com/Ishan-Chaurasia) |
+| **Impact** | Delivered full CRUD functionality with robust data validation[cite: 1] |
+| **Repository** | [View Source](https://github.com/Ishan03) |
 
-*Professional Context:* Designed a responsive UI using Bootstrap and integrated MongoDB for scalable data persistence, ensuring high availability and seamless user interaction[cite: 1].
-</details>
-
-<details>
-<summary><b>Secure RESTful API Architecture</b></summary>
-<br>
-Designed a robust REST API handling complex GET and POST requests[cite: 1].
-
-| Metric | Details |
-| :--- | :--- |
-| **Stack** | Node.js, Express.js, MongoDB, Mongoose[cite: 1] |
-| **Scale** | Enterprise-grade API endpoints |
-| **Performance** | Optimized request lifecycle with input validation[cite: 1] |
-| **Security** | Proper HTTP status codes and edge-case error handling[cite: 1] |
-| **Impact** | Ensures data integrity across full CRUD operations[cite: 1] |
-| **Repository** | [View Source](https://github.com/Ishan-Chaurasia) |
-
-*Professional Context:* Built during an industry internship to handle data validation, routing, and database communication effectively[cite: 1].
+*Professional Context:* Designed a responsive user interface using Bootstrap and integrated MongoDB for scalable data persistence[cite: 1].
 </details>
 
 ---
@@ -119,10 +90,10 @@ Designed a robust REST API handling complex GET and POST requests[cite: 1].
 **Full Stack Developer Intern** | **DecodeLabs**
 *May 2026 – June 2026*[cite: 1]
 
-Built scalable web solutions focusing on layout, accessibility, and user interaction[cite: 1].
+Built a responsive website focusing on layout, accessibility, and user interaction[cite: 1]. 
 * Developed a RESTful API with Node.js and Express.js, handling GET and POST requests[cite: 1].
-* Implemented input validation and proper HTTP status codes for secure data transmission[cite: 1].
-* Designed a MongoDB schema and executed full CRUD operations using Mongoose[cite: 1].
+* Implemented input validation and proper HTTP status codes[cite: 1].
+* Designed a MongoDB schema and implemented full CRUD operations using Mongoose[cite: 1].
 * Authored comprehensive error handling for invalid and edge-case requests[cite: 1].
 
 `HTML` `CSS` `JavaScript` `Node.js` `Express.js` `MongoDB` `Mongoose`[cite: 1]
@@ -138,20 +109,20 @@ Built scalable web solutions focusing on layout, accessibility, and user interac
 | **Competitive Programming** | Solved 150+ Data Structures & Algorithms problems on LeetCode with consistent daily practice[cite: 1]. |
 | **Academic Excellence** | Scored 91 percentile in JEE Main 2025[cite: 1]. |
 | **Hackathon Participant** | Participated in Srijan 2026 – 24-Hour National Level Hackathon organized by Technocrats Institute of Technology, Bhopal[cite: 1]. |
-| **High CGPA** | Maintaining a 7.81 / 10 CGPA in B.Tech CSE[cite: 1]. |
+| **High CGPA** | Maintaining a 7.81 / 10 CGPA in B.Tech CSE at LNCT, Bhopal[cite: 1]. |
+| **Board Examination** | Achieved 82% in Class XII (CBSE) 2024 at Rass JB Public School[cite: 1]. |
 
 </div>
 
 ---
 
-### Certifications
+### Certifications 
+
+*(Note: Currently focusing on core academic coursework and structured degree programs[cite: 1])*
 
 <div align="center">
 
-![AWS](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-4B0082?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-Certified_Associate-4B0082?style=for-the-badge&logo=oracle&logoColor=white)
-![NPTEL](https://img.shields.io/badge/NPTEL-Data_Structures-4B0082?style=for-the-badge&logo=nptel&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-Network_Academy-4B0082?style=for-the-badge&logo=cisco&logoColor=white)
+![B.Tech](https://img.shields.io/badge/LNCT_Bhopal-B.Tech_CSE_Candidate-4B0082?style=for-the-badge&logo=book&logoColor=white)
 
 </div>
 
@@ -161,10 +132,7 @@ Built scalable web solutions focusing on layout, accessibility, and user interac
 
 <div align="center">
 
-<a href="https://leetcode.com/u/Ishan-Chaurasia"><img src="https://img.shields.io/badge/LeetCode-150+_Problems_Solved-4B0082?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-<a href="#"><img src="https://img.shields.io/badge/GeeksforGeeks-Active_Solver-4B0082?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-<a href="#"><img src="https://img.shields.io/badge/HackerRank-Problem_Solving-4B0082?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-<a href="#"><img src="https://img.shields.io/badge/CodeChef-Competitive_Programmer-4B0082?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+<a href="https://leetcode.com/u/Ishan03"><img src="https://img.shields.io/badge/LeetCode-150+_Problems_Solved-4B0082?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 
 </div>
 
@@ -174,10 +142,10 @@ Built scalable web solutions focusing on layout, accessibility, and user interac
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ishan03&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=9400D3&text_color=ffffff" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishan03&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=9400D3&currStreakNum=ffffff" alt="GitHub Streak" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ishan03&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=007BFF&icon_color=4B0082&text_color=ffffff" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishan03&theme=tokyonight&hide_border=true&background=0D1117&ring=007BFF&fire=4B0082&currStreakNum=ffffff" alt="GitHub Streak" width="48%" />
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan03&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=8A2BE2&text_color=ffffff" alt="Top Languages" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan03&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117&title_color=007BFF&text_color=ffffff" alt="Top Languages" width="60%" />
 
 </div>
 
@@ -193,21 +161,11 @@ Built scalable web solutions focusing on layout, accessibility, and user interac
 
 ---
 
-### GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ishan-Chaurasia&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-
-</div>
-
----
-
 ### Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishan-Chaurasia&bg_color=0D1117&color=8A2BE2&line=9400D3&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ishan03&bg_color=0D1117&color=007BFF&line=4B0082&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 
 </div>
 
@@ -218,8 +176,8 @@ Built scalable web solutions focusing on layout, accessibility, and user interac
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ishan-Chaurasia/Ishan-Chaurasia/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ishan-Chaurasia/Ishan-Chaurasia/output/github-contribution-grid-snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ishan03/Ishan03/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ishan03/Ishan03/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
 </div>
@@ -230,7 +188,7 @@ Built scalable web solutions focusing on layout, accessibility, and user interac
 
 ```yaml
 Current_Status:
-  Learning: "Advanced Distributed Systems, Machine Learning Architectures"
-  Building: "Enterprise-grade Microservices, Scalable APIs"
-  Exploring: "Cloud Native Technologies, System Design"
-  Open_To: ["Software Engineering Roles", "Full Stack Opportunities"]
+  Learning: "Data Structures & Algorithms in C++"
+  Building: "WanderLust - Travel Accommodation Platform"
+  Exploring: "Authentication & Authorization with Passport.js"
+  Open_To: ["Full Stack Internships", "Web Development Roles"]
